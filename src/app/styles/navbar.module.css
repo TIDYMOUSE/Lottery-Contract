@@ -1,0 +1,23 @@
+
+.navbar__links{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    background-color: #94ADD7;
+    overflow: hidden;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+.navbar__links li {
+  margin: 10px;
+}
+
+.navbar__links a {
+    background-color: #94ADD7;
+    text-decoration: none;
+}
+
+.navbar__links a:hover{
+    text-decoration: underline; 
+}
